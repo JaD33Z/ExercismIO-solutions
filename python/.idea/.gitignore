@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/misc.xml
+/modules.xml
+/python.iml
+/vcs.xml
+
+/.idea/inspectionProfiles
+
+
+python/acronym/.exercism/metadata.json

@@ -9,4 +9,3 @@ def score(word):
     word = word.lower()
     word_score = sum([letters[i] for i in word if i in letters.keys()])
     return word_score
-

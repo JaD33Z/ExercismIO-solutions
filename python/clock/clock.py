@@ -15,19 +15,3 @@ class Clock:
     def __sub__(self, minutes):
         return Clock(self.hour, self.minute - minutes)
 
-
-
-
-
-hours, minutes = divmod(minutes, 60)
-# print(f'{h:d}:{m:02d}:{s:02d}')
-
-
-
-
-
-
-
-
-
-
